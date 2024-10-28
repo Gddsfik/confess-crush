@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tầng 4 ta gặp nhau =)).',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://web.facebook.com/messages/e2ee/t/7848177295294735' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
